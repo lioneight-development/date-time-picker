@@ -22,9 +22,6 @@
   "module": "picker.js",
   "types": "picker.d.ts",
   "main": "picker.bundle.js",
-  "peerDependencies": {
-    "@angular/cdk": "^7.0.0"
-  },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.6.0",
     "@angular-devkit/build-optimizer": "^0.6.0",
